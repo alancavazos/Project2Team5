@@ -1,11 +1,36 @@
+---
+layout: default
+---
 <html>
-<h3 align="center">Group 5 Project 2 for <span style="background-color: #914c53; color: #ffffff; padding: 0 3px;">TCMG 412</span></h3>
+<head>
+<title>Group 2:TCMG 412</title>
 
-<h5 align ="center">
-  By: Alan Cavazos, Kevin Ngo, Hunter Thorson and Ashlynn Helm
-</h5>
+</head>
 
-<h1 align = "center"><MARQUEE BEHAVIOR="ALTERNATE" WIDTH="150">Howdy!</marquee></h1>
 
-<p align="center"><strong>Howdy, and welcome to our group project. Our group consists of four Technology Management students at Texas A&M University. We have individual pages for each of our team members, click in any of our member to read more about their blog!</strong></p>
-</html>
+<tr>
+
+
+<h1><marquee>Howdy!</marquee></h1>
+<h2 align="center"><b>Group 2 Project 2</b></h2>
+<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Ilori, Tanner Sheldon</h3>
+<h4 align="center">
+ 
+<hr align="center">
+<center><table><tr><td><h3><center> <b>Home</b>  <a href= "j_saldua.html"> [ Texas ] </a>  <a href= "j_ilori.html"> [ Overuse Injuries ]  </a> <a href= "t_sheldon.html"> [ Cooking ] </a> <a href= "j_raburn.html"> [ Traveling ]  </a> </center></h3></td> </tr></table></center>
+<hr align="center">
+
+
+<span id='ct' ></span>
+</h4>
+<hr align="center">
+
+<center><p>	Howdy, we are <a href="https://catalog.tamu.edu/undergraduate/education-human-development/educational-administration-human-resource-development/technology-management-bs/">Technology Management</a> majors at Texas A&M University.
+We created this webpage for our second project focusing on using GitHub Pages.
+With this project we focused on the collaboration through GitHub and using Push/Pull requests in order to each contribute to this project.</p></center>
+
+<iframe height="365" width="650"  
+src="https://www.youtube.com/embed/1FrHm9R-7Mo?autoplay=1&mute=1&loop=1"> 
+</iframe>
+ 
+<hr align="center">
