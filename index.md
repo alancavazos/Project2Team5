@@ -3,7 +3,7 @@ layout: default
 ---
 <html>
 <head>
-<title>Group 2:TCMG 412</title>
+<title>Group 5 Website for TCMG 412</title>
 
 </head>
 
@@ -11,9 +11,9 @@ layout: default
 <tr>
 
 
-<h1><marquee>Howdy!</marquee></h1>
-<h2 align="center"><b>Group 2 Project 2</b></h2>
-<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Ilori, Tanner Sheldon</h3>
+<h1><marquee behavior="alternate">Welcome!</marquee></h1>
+<h2 align="center"><b>Group 5 Project 2</b></h2>
+<h3 align="center">By: Ashlynn Helm, Alan Cavazos, Kevin Ngo, Hunter Thorson</h3>
 <h4 align="center">
  
 <hr align="center">
