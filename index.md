@@ -1,5 +1,5 @@
 ---
-layout: Hacker
+layout: Default
 ---
 <html>
 <head>
