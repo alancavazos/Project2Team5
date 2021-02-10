@@ -1,5 +1,9 @@
-
-<h3 align="center">Group 5 Project 2 for <span style="background-color: #914c53; color: #ffffff; padding: 0 3px;">TCMG 412</span></h3>
+--
+layout: default
+--
+<html>
+  <head>
+<title align="center">Group 5 Project 2 for <span style="background-color: #914c53; color: #ffffff; padding: 0 3px;">TCMG 412</span></title>
 
 <h5 align ="center">
   By: Alan Cavazos, Kevin Ngo, Hunter Thorson and Ashlynn Helm
